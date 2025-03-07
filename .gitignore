@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 passport-404012-68395fe36e81.json
 node_modules/
+.env
 dist
 dist-ssr
 *.local
